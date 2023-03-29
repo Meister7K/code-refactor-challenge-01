@@ -86,18 +86,15 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    /* added margin bottom and color */
+}
+
+
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
 /* commented out for reppetition */
-/*.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
+/*.benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -210,8 +207,11 @@ h3 {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    /* added font size */
+    font-size: 20px
 }
 
-.footer h2 {
+/* commented out for reppetition */
+/*.footer h2 {
     font-size: 20px;
-}
+}*/
