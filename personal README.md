@@ -10,7 +10,7 @@
 - Overall, it was learned that there is more than one way to create a website. However, there are always new/better practices that can be implemented to older code. Take the rtime to review and reflect on your work and see if there are ways to make it either more user friendly, or cleaner and less repetitive. 
 
 ## Screenshot
-![Screenshot](./Assets/01-html-css-git-homework-demo.png)
+![Screenshot](./Assets/screencapture-meister7k-github-io-code-refactor-challenge-01-2023-03-30-14_46_30.png)
 
 ## Link
 - [Project Link](https://meister7k.github.io/code-refactor-challenge-01/)
